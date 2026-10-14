@@ -36,6 +36,86 @@ proxies:
     password: "f6KPToJudn"
     dialer-proxy: "机场中转"
     udp: true
+  - name: "日本注册_1"
+    type: socks5
+    server: 43.129.172.76
+    port: 10422
+    username: "123"
+    password: "123"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_2"
+    type: socks5
+    server: 43.128.25.52
+    port: 10178
+    username: "123"
+    password: "123"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_3"
+    type: socks5
+    server: 124.156.184.202
+    port: 10386
+    username: "123"
+    password: "123"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_4"
+    type: socks5
+    server: 43.129.241.156
+    port: 10440
+    username: "123"
+    password: "123"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_5"
+    type: socks5
+    server: 43.129.229.72
+    port: 10408
+    username: "123"
+    password: "123"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_6"
+    type: socks5
+    server: 43.129.243.93
+    port: 10408
+    username: "123"
+    password: "123"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_7"
+    type: socks5
+    server: 43.132.210.210
+    port: 10402
+    username: "123"
+    password: "123"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_8"
+    type: socks5
+    server: 43.132.224.165
+    port: 10407
+    username: "123"
+    password: "123"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_9"
+    type: socks5
+    server: 43.129.26.120
+    port: 10417
+    username: "123"
+    password: "123"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_10"
+    type: socks5
+    server: 43.129.172.76
+    port: 10421
+    username: "123"
+    password: "123"
+    dialer-proxy: "机场中转"
+    udp: true
 
 proxy-groups:
   - name: "机场中转"
@@ -46,6 +126,16 @@ proxy-groups:
     type: select
     proxies:
       - "日本付款"
+      - "日本注册_1"
+      - "日本注册_2"
+      - "日本注册_3"
+      - "日本注册_4"
+      - "日本注册_5"
+      - "日本注册_6"
+      - "日本注册_7"
+      - "日本注册_8"
+      - "日本注册_9"
+      - "日本注册_10"
       - "机场中转"
       - DIRECT
 
@@ -57,6 +147,19 @@ proxy-groups:
       - DIRECT
 
 rules:
+    - DOMAIN-SUFFIX,signin.ea.com,机场中转
+    - DOMAIN-SUFFIX,accounts.ea.com,机场中转
+    - DOMAIN-SUFFIX,ea.com,机场中转
+    - DOMAIN-SUFFIX,eajoy.com,机场中转
+    - DOMAIN-SUFFIX,ea-services.com,机场中转
+    - DOMAIN-KEYWORD,play.google.com/redeem,礼品卡付款
+    - DOMAIN-KEYWORD,pay.google.com,礼品卡付款
+    - DOMAIN-KEYWORD,wallet.google.com,礼品卡付款
+    - DOMAIN-KEYWORD,checkout,礼品卡付款
+    - DOMAIN-KEYWORD,payment,礼品卡付款
+    - DOMAIN-KEYWORD,billing,礼品卡付款
+    - DOMAIN-KEYWORD,store,礼品卡付款
+    - DOMAIN-KEYWORD,redeem,礼品卡付款
     - DOMAIN-SUFFIX,google.com,礼品卡付款
     - DOMAIN-SUFFIX,googleapis.com,礼品卡付款
     - DOMAIN-SUFFIX,googleusercontent.com,礼品卡付款
@@ -69,9 +172,7 @@ rules:
     - DOMAIN,mtalk.google.com,礼品卡付款
     - DOMAIN-SUFFIX,firebaseio.com,礼品卡付款
     - DOMAIN-KEYWORD,playbilling,礼品卡付款
-    - DOMAIN-KEYWORD,checkout,礼品卡付款
     - DOMAIN-KEYWORD,googlepay,礼品卡付款
-    - DOMAIN-KEYWORD,wallet.google,礼品卡付款
     - DOMAIN-KEYWORD,inappbilling,礼品卡付款
     - DOMAIN-KEYWORD,googleapis.cn,礼品卡付款
     - DOMAIN-KEYWORD,google,礼品卡付款
