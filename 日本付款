@@ -57,7 +57,7 @@ proxy-groups:
       - DIRECT
 
 rules:
-   - DOMAIN-SUFFIX,signin.ea.com,机场中转
+    - DOMAIN-SUFFIX,signin.ea.com,机场中转
     - DOMAIN-SUFFIX,accounts.ea.com,机场中转
     - DOMAIN-SUFFIX,ea.com,机场中转
     - DOMAIN-SUFFIX,eajoy.com,机场中转
