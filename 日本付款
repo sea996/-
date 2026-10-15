@@ -57,6 +57,19 @@ proxy-groups:
       - DIRECT
 
 rules:
+   - DOMAIN-SUFFIX,signin.ea.com,机场中转
+    - DOMAIN-SUFFIX,accounts.ea.com,机场中转
+    - DOMAIN-SUFFIX,ea.com,机场中转
+    - DOMAIN-SUFFIX,eajoy.com,机场中转
+    - DOMAIN-SUFFIX,ea-services.com,机场中转
+    - DOMAIN-KEYWORD,play.google.com/redeem,礼品卡付款
+    - DOMAIN-KEYWORD,pay.google.com,礼品卡付款
+    - DOMAIN-KEYWORD,wallet.google.com,礼品卡付款
+    - DOMAIN-KEYWORD,checkout,礼品卡付款
+    - DOMAIN-KEYWORD,payment,礼品卡付款
+    - DOMAIN-KEYWORD,billing,礼品卡付款
+    - DOMAIN-KEYWORD,store,礼品卡付款
+    - DOMAIN-KEYWORD,redeem,礼品卡付款
     - DOMAIN-SUFFIX,google.com,礼品卡付款
     - DOMAIN-SUFFIX,googleapis.com,礼品卡付款
     - DOMAIN-SUFFIX,googleusercontent.com,礼品卡付款
@@ -69,9 +82,7 @@ rules:
     - DOMAIN,mtalk.google.com,礼品卡付款
     - DOMAIN-SUFFIX,firebaseio.com,礼品卡付款
     - DOMAIN-KEYWORD,playbilling,礼品卡付款
-    - DOMAIN-KEYWORD,checkout,礼品卡付款
     - DOMAIN-KEYWORD,googlepay,礼品卡付款
-    - DOMAIN-KEYWORD,wallet.google,礼品卡付款
     - DOMAIN-KEYWORD,inappbilling,礼品卡付款
     - DOMAIN-KEYWORD,googleapis.cn,礼品卡付款
     - DOMAIN-KEYWORD,google,礼品卡付款
