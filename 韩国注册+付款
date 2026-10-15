@@ -18,7 +18,7 @@ dns:
 proxy-providers:
   机场:
     type: http
-    url: "https://vvq8t.no-mad-sub.one/link/Z7v9bsLFqKWZDL81?clash=3&extend=1"
+    url: "https://44qdi.no-mad-sub.one/link/Z7v9bsLFqKWZDL81?clash=3&extend=1"
     interval: 86400
     path: ./proxy_provider/jc.yaml
     udp: true
@@ -36,42 +36,42 @@ proxies:
     password: "z3zUbYOvIa"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "韩国注册_1"
+  - name: "韩国_1"
     type: socks5
-    server: 211.198.172.29
-    port: 10048
+    server: 43.129.172.76
+    port: 10433
     username: "123"
     password: "123"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "韩国注册_2"
+  - name: "韩国_2"
     type: socks5
-    server: 59.1.184.3
-    port: 10007
+    server: 43.132.210.210
+    port: 10413
     username: "123"
     password: "123"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "韩国注册_3"
+  - name: "韩国_3"
     type: socks5
-    server: 125.139.142.168
-    port: 10008
+    server: 124.156.184.202
+    port: 10400
     username: "123"
     password: "123"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "韩国注册_4"
+  - name: "韩国_4"
     type: socks5
-    server: 121.154.145.172
-    port: 10016
+    server: 43.129.241.156
+    port: 10450
     username: "123"
     password: "123"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "韩国注册_5"
+  - name: "韩国_5"
     type: socks5
-    server: 221.159.78.222
-    port: 10018
+    server: 43.129.243.93
+    port: 10419
     username: "123"
     password: "123"
     dialer-proxy: "机场中转"
@@ -86,11 +86,11 @@ proxy-groups:
     type: select
     proxies:
       - "韩国付款"
-      - "韩国注册_1"
-      - "韩国注册_2"
-      - "韩国注册_3"
-      - "韩国注册_4"
-      - "韩国注册_5"
+      - "韩国_1"
+      - "韩国_2"
+      - "韩国_3"
+      - "韩国_4"
+      - "韩国_5"
       - "机场中转"
       - DIRECT
 
