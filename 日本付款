@@ -15,25 +15,13 @@ dns:
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
 
-proxy-providers:
-  机场:
-    type: http
-    url: "https://vvq8t.no-mad-sub.one/link/Z7v9bsLFqKWZDL81?clash=3&extend=1"
-    interval: 86400
-    path: ./proxy_provider/jc.yaml
-    udp: true
-    health-check:
-      enable: true
-      interval: 600
-      url: http://connectivitycheck.platform.hicloud.com/generate_204
-
 proxies:
   - name: "日本付款"
     type: socks5
-    server: proxy.soax.com
-    port: 1337
-    username: "country-jp-network-res_mob"
-    password: "f6KPToJudn"
+    server: https
+    port: undefined
+    username: "vvq8t.no-mad-sub.one"
+    password: "link:Z7v9bsLFqKWZDL81?clash=3&extend=1"
     dialer-proxy: "机场中转"
     udp: true
 
