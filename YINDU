@@ -40,400 +40,400 @@ proxies:
     type: socks5
     server: 106.75.134.163
     port: 1000
-    username: "b842175d-6292d2e3-f5b777"
-    password: "wifi-in-10--"
+    username: "b842175d-6292d2e3-2aa428"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_2"
     type: socks5
     server: 106.75.134.163
     port: 1001
-    username: "b842175d-6292d2e3-3e7fc6"
-    password: "wifi-in-10--"
+    username: "b842175d-6292d2e3-ad0807"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_3"
     type: socks5
     server: 106.75.134.163
     port: 1002
-    username: "b842175d-6292d2e3-c10312"
-    password: "wifi-in-10--"
+    username: "b842175d-6292d2e3-6b8576"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_4"
     type: socks5
     server: 106.75.134.163
     port: 1003
-    username: "b842175d-6292d2e3-64b91b"
-    password: "wifi-in-10--"
+    username: "b842175d-6292d2e3-e6af29"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_5"
     type: socks5
     server: 106.75.134.163
     port: 1004
-    username: "b842175d-6292d2e3-af9589"
-    password: "wifi-in-10--"
+    username: "b842175d-6292d2e3-efa301"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_6"
     type: socks5
     server: 106.75.134.163
     port: 1005
-    username: "b842175d-6292d2e3-c114bf"
-    password: "wifi-in-10--"
+    username: "b842175d-6292d2e3-cedc9a"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_7"
     type: socks5
     server: 106.75.134.163
     port: 1006
-    username: "b842175d-6292d2e3-bd50de"
-    password: "wifi-in-10--"
+    username: "b842175d-6292d2e3-b126fb"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_8"
     type: socks5
     server: 106.75.134.163
     port: 1007
-    username: "b842175d-6292d2e3-2635b4"
-    password: "wifi-in-10--"
+    username: "b842175d-6292d2e3-ff01af"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_9"
     type: socks5
     server: 106.75.134.163
     port: 1008
-    username: "b842175d-6292d2e3-ba04c6"
-    password: "wifi-in-10--"
+    username: "b842175d-6292d2e3-684fe5"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_10"
     type: socks5
     server: 106.75.134.163
     port: 1009
-    username: "b842175d-6292d2e3-8c9db0"
-    password: "wifi-in-10--"
+    username: "b842175d-6292d2e3-ea7d86"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_11"
     type: socks5
     server: 106.75.134.163
     port: 1010
-    username: "b842175d-6292d2e3-29f535"
-    password: "wifi-in-10--"
+    username: "b842175d-6292d2e3-aca092"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_12"
     type: socks5
     server: 106.75.134.163
-    port: 1009
-    username: "b842175d-6292d2e3-273976"
-    password: "wifi-in-10--"
+    port: 1006
+    username: "b842175d-6292d2e3-f3ab10"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_13"
     type: socks5
     server: 106.75.134.163
-    port: 1008
-    username: "b842175d-6292d2e3-f896b2"
-    password: "wifi-in-10--"
+    port: 1005
+    username: "b842175d-6292d2e3-056549"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_14"
     type: socks5
     server: 106.75.134.163
-    port: 1002
-    username: "b842175d-6292d2e3-40b986"
-    password: "wifi-in-10--"
+    port: 1005
+    username: "b842175d-6292d2e3-52fc99"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_15"
     type: socks5
     server: 106.75.134.163
-    port: 1002
-    username: "b842175d-6292d2e3-f5969b"
-    password: "wifi-in-10--"
+    port: 1008
+    username: "b842175d-6292d2e3-064aac"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_16"
     type: socks5
     server: 106.75.134.163
-    port: 1006
-    username: "b842175d-6292d2e3-9a27b9"
-    password: "wifi-in-10--"
+    port: 1004
+    username: "b842175d-6292d2e3-9b8881"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_17"
     type: socks5
     server: 106.75.134.163
-    port: 1002
-    username: "b842175d-6292d2e3-d054df"
-    password: "wifi-in-10--"
+    port: 1010
+    username: "b842175d-6292d2e3-bc61f1"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_18"
     type: socks5
     server: 106.75.134.163
-    port: 1004
-    username: "b842175d-6292d2e3-a245b1"
-    password: "wifi-in-10--"
+    port: 1007
+    username: "b842175d-6292d2e3-18e308"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_19"
     type: socks5
     server: 106.75.134.163
-    port: 1009
-    username: "b842175d-6292d2e3-39d633"
-    password: "wifi-in-10--"
+    port: 1001
+    username: "b842175d-6292d2e3-02ddac"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_20"
     type: socks5
     server: 106.75.134.163
-    port: 1010
-    username: "b842175d-6292d2e3-49b2f3"
-    password: "wifi-in-10--"
+    port: 1000
+    username: "b842175d-6292d2e3-b3f135"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_21"
     type: socks5
     server: 106.75.134.163
-    port: 1004
-    username: "b842175d-6292d2e3-02dec6"
-    password: "wifi-in-10--"
+    port: 1008
+    username: "b842175d-6292d2e3-e8fd05"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_22"
     type: socks5
     server: 106.75.134.163
-    port: 1006
-    username: "b842175d-6292d2e3-cf3ac1"
-    password: "wifi-in-10--"
+    port: 1000
+    username: "b842175d-6292d2e3-cf71ed"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_23"
     type: socks5
     server: 106.75.134.163
-    port: 1007
-    username: "b842175d-6292d2e3-ba85d8"
-    password: "wifi-in-10--"
+    port: 1009
+    username: "b842175d-6292d2e3-642280"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_24"
     type: socks5
     server: 106.75.134.163
-    port: 1008
-    username: "b842175d-6292d2e3-ab2635"
-    password: "wifi-in-10--"
+    port: 1009
+    username: "b842175d-6292d2e3-6ebb19"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_25"
     type: socks5
     server: 106.75.134.163
-    port: 1006
-    username: "b842175d-6292d2e3-5d46ba"
-    password: "wifi-in-10--"
+    port: 1003
+    username: "b842175d-6292d2e3-b4256f"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_26"
     type: socks5
     server: 106.75.134.163
-    port: 1006
-    username: "b842175d-6292d2e3-a89445"
-    password: "wifi-in-10--"
+    port: 1007
+    username: "b842175d-6292d2e3-56fa3e"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_27"
     type: socks5
     server: 106.75.134.163
-    port: 1008
-    username: "b842175d-6292d2e3-4b206b"
-    password: "wifi-in-10--"
+    port: 1000
+    username: "b842175d-6292d2e3-1e745e"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_28"
     type: socks5
     server: 106.75.134.163
-    port: 1004
-    username: "b842175d-6292d2e3-448540"
-    password: "wifi-in-10--"
+    port: 1007
+    username: "b842175d-6292d2e3-be87d9"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_29"
     type: socks5
     server: 106.75.134.163
-    port: 1008
-    username: "b842175d-6292d2e3-20351a"
-    password: "wifi-in-10--"
+    port: 1002
+    username: "b842175d-6292d2e3-9769e8"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_30"
     type: socks5
     server: 106.75.134.163
-    port: 1003
-    username: "b842175d-6292d2e3-4bab4e"
-    password: "wifi-in-10--"
+    port: 1005
+    username: "b842175d-6292d2e3-432e82"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_31"
     type: socks5
     server: 106.75.134.163
-    port: 1004
-    username: "b842175d-6292d2e3-8afb18"
-    password: "wifi-in-10--"
+    port: 1005
+    username: "b842175d-6292d2e3-c20905"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_32"
     type: socks5
     server: 106.75.134.163
-    port: 1005
-    username: "b842175d-6292d2e3-f5c291"
-    password: "wifi-in-10--"
+    port: 1010
+    username: "b842175d-6292d2e3-5c6217"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_33"
     type: socks5
     server: 106.75.134.163
-    port: 1008
-    username: "b842175d-6292d2e3-bb116a"
-    password: "wifi-in-10--"
+    port: 1004
+    username: "b842175d-6292d2e3-8e0e7a"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_34"
     type: socks5
     server: 106.75.134.163
-    port: 1004
-    username: "b842175d-6292d2e3-7dd5cc"
-    password: "wifi-in-10--"
+    port: 1010
+    username: "b842175d-6292d2e3-5803eb"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_35"
     type: socks5
     server: 106.75.134.163
-    port: 1002
-    username: "b842175d-6292d2e3-cccef0"
-    password: "wifi-in-10--"
+    port: 1007
+    username: "b842175d-6292d2e3-fc9075"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_36"
     type: socks5
     server: 106.75.134.163
-    port: 1010
-    username: "b842175d-6292d2e3-0d08e1"
-    password: "wifi-in-10--"
+    port: 1005
+    username: "b842175d-6292d2e3-e8715c"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_37"
     type: socks5
     server: 106.75.134.163
     port: 1009
-    username: "b842175d-6292d2e3-e360dd"
-    password: "wifi-in-10--"
+    username: "b842175d-6292d2e3-1be412"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_38"
     type: socks5
     server: 106.75.134.163
-    port: 1010
-    username: "b842175d-6292d2e3-78ded4"
-    password: "wifi-in-10--"
+    port: 1004
+    username: "b842175d-6292d2e3-c87319"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_39"
     type: socks5
     server: 106.75.134.163
-    port: 1010
-    username: "b842175d-6292d2e3-eb5ee0"
-    password: "wifi-in-10--"
+    port: 1002
+    username: "b842175d-6292d2e3-d6bc35"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_40"
     type: socks5
     server: 106.75.134.163
-    port: 1000
-    username: "b842175d-6292d2e3-638822"
-    password: "wifi-in-10--"
+    port: 1001
+    username: "b842175d-6292d2e3-10c313"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_41"
     type: socks5
     server: 106.75.134.163
-    port: 1006
-    username: "b842175d-6292d2e3-5eca45"
-    password: "wifi-in-10--"
+    port: 1009
+    username: "b842175d-6292d2e3-cd8de9"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_42"
     type: socks5
     server: 106.75.134.163
-    port: 1007
-    username: "b842175d-6292d2e3-4fab93"
-    password: "wifi-in-10--"
+    port: 1006
+    username: "b842175d-6292d2e3-339d1f"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_43"
     type: socks5
     server: 106.75.134.163
-    port: 1003
-    username: "b842175d-6292d2e3-a89ac0"
-    password: "wifi-in-10--"
+    port: 1001
+    username: "b842175d-6292d2e3-3cc1b2"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_44"
     type: socks5
     server: 106.75.134.163
-    port: 1008
-    username: "b842175d-6292d2e3-31ea74"
-    password: "wifi-in-10--"
+    port: 1002
+    username: "b842175d-6292d2e3-3f9ffa"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_45"
     type: socks5
     server: 106.75.134.163
     port: 1000
-    username: "b842175d-6292d2e3-1b6920"
-    password: "wifi-in-10--"
+    username: "b842175d-6292d2e3-d93a13"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_46"
     type: socks5
     server: 106.75.134.163
-    port: 1004
-    username: "b842175d-6292d2e3-1486a8"
-    password: "wifi-in-10--"
+    port: 1007
+    username: "b842175d-6292d2e3-818d64"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_47"
     type: socks5
     server: 106.75.134.163
     port: 1001
-    username: "b842175d-6292d2e3-244d81"
-    password: "wifi-in-10--"
+    username: "b842175d-6292d2e3-1e315e"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_48"
     type: socks5
     server: 106.75.134.163
-    port: 1004
-    username: "b842175d-6292d2e3-6d261f"
-    password: "wifi-in-10--"
+    port: 1000
+    username: "b842175d-6292d2e3-1a042d"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_49"
     type: socks5
     server: 106.75.134.163
     port: 1000
-    username: "b842175d-6292d2e3-9983b8"
-    password: "wifi-in-10--"
+    username: "b842175d-6292d2e3-8e9f56"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度注册_50"
     type: socks5
     server: 106.75.134.163
     port: 1009
-    username: "b842175d-6292d2e3-1b91c3"
-    password: "wifi-in-10--"
+    username: "b842175d-6292d2e3-1b0dd3"
+    password: "wifi-in-120--"
     dialer-proxy: "机场中转"
     udp: true
 
