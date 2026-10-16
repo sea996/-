@@ -15,6 +15,18 @@ dns:
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
 
+proxy-providers:
+  机场:
+    type: http
+    url: "https://xisax.no-mad-sub.one/link/Z7v9bsLFqKWZDL81?clash=3&extend=1"
+    interval: 86400
+    path: ./proxy_provider/jc.yaml
+    udp: true
+    health-check:
+      enable: true
+      interval: 600
+      url: http://connectivitycheck.platform.hicloud.com/generate_204
+
 proxies:
   - name: "印度付款"
     type: socks5
