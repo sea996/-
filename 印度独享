@@ -36,6 +36,14 @@ proxies:
     password: "z3zUbYOvIa"
     dialer-proxy: "机场中转"
     udp: true
+  - name: "印度注册"
+    type: socks5
+    server: static.proxyempire.io
+    port: 9000
+    username: "user_103.163.55.204"
+    password: "83ba7398a5"
+    dialer-proxy: "机场中转"
+    udp: true
 
 proxy-groups:
   - name: "机场中转"
@@ -46,6 +54,7 @@ proxy-groups:
     type: select
     proxies:
       - "印度付款"
+      - "印度注册"
       - "机场中转"
       - DIRECT
 
