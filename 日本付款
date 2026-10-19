@@ -30,58 +30,403 @@ proxy-providers:
 proxies:
   - name: "日本付款_1"
     type: socks5
-    server: 192.168.2.2
-    port: 5500
+    server: 106.75.134.163
+    port: 1000
+    username: "b842175d-6292d2e3-034601"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
     udp: true
   - name: "日本付款_2"
     type: socks5
-    server: 192.168.2.2
-    port: 5501
+    server: 106.75.134.163
+    port: 1001
+    username: "b842175d-6292d2e3-c6f0a5"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
     udp: true
   - name: "日本付款_3"
     type: socks5
-    server: 192.168.2.2
-    port: 5502
+    server: 106.75.134.163
+    port: 1002
+    username: "b842175d-6292d2e3-18669a"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
     udp: true
   - name: "日本付款_4"
     type: socks5
-    server: 192.168.2.2
-    port: 5503
+    server: 106.75.134.163
+    port: 1003
+    username: "b842175d-6292d2e3-3b0b17"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
     udp: true
   - name: "日本付款_5"
     type: socks5
-    server: 192.168.2.2
-    port: 5504
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-8121cd"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
     udp: true
   - name: "日本付款_6"
     type: socks5
-    server: 192.168.2.2
-    port: 5505
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-a5c0fb"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
     udp: true
   - name: "日本付款_7"
     type: socks5
-    server: 192.168.2.2
-    port: 5506
+    server: 106.75.134.163
+    port: 1006
+    username: "b842175d-6292d2e3-21a2f5"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
     udp: true
   - name: "日本付款_8"
     type: socks5
-    server: 192.168.2.2
-    port: 5507
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-7f9969"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
     udp: true
   - name: "日本付款_9"
     type: socks5
-    server: 192.168.2.2
-    port: 5508
+    server: 106.75.134.163
+    port: 1008
+    username: "b842175d-6292d2e3-6f436e"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
     udp: true
   - name: "日本付款_10"
     type: socks5
-    server: 192.168.2.2
-    port: 5509
+    server: 106.75.134.163
+    port: 1009
+    username: "b842175d-6292d2e3-5d6236"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
     udp: true
   - name: "日本付款_11"
     type: socks5
-    server: 192.168.2.2
-    port: 5510
+    server: 106.75.134.163
+    port: 1010
+    username: "b842175d-6292d2e3-80e665"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_12"
+    type: socks5
+    server: 106.75.134.163
+    port: 1002
+    username: "b842175d-6292d2e3-ef1b38"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_13"
+    type: socks5
+    server: 106.75.134.163
+    port: 1010
+    username: "b842175d-6292d2e3-69d9da"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_14"
+    type: socks5
+    server: 106.75.134.163
+    port: 1010
+    username: "b842175d-6292d2e3-a5a48d"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_15"
+    type: socks5
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-302424"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_16"
+    type: socks5
+    server: 106.75.134.163
+    port: 1003
+    username: "b842175d-6292d2e3-609475"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_17"
+    type: socks5
+    server: 106.75.134.163
+    port: 1010
+    username: "b842175d-6292d2e3-ff028e"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_18"
+    type: socks5
+    server: 106.75.134.163
+    port: 1001
+    username: "b842175d-6292d2e3-b07634"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_19"
+    type: socks5
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-ad96f5"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_20"
+    type: socks5
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-65bbe1"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_21"
+    type: socks5
+    server: 106.75.134.163
+    port: 1001
+    username: "b842175d-6292d2e3-52d2ce"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_22"
+    type: socks5
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-fcbd87"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_23"
+    type: socks5
+    server: 106.75.134.163
+    port: 1001
+    username: "b842175d-6292d2e3-9de68c"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_24"
+    type: socks5
+    server: 106.75.134.163
+    port: 1000
+    username: "b842175d-6292d2e3-e778c9"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_25"
+    type: socks5
+    server: 106.75.134.163
+    port: 1008
+    username: "b842175d-6292d2e3-0b7b9a"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_26"
+    type: socks5
+    server: 106.75.134.163
+    port: 1009
+    username: "b842175d-6292d2e3-6aca64"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_27"
+    type: socks5
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-6032b4"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_28"
+    type: socks5
+    server: 106.75.134.163
+    port: 1003
+    username: "b842175d-6292d2e3-4a7aab"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_29"
+    type: socks5
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-644b11"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_30"
+    type: socks5
+    server: 106.75.134.163
+    port: 1010
+    username: "b842175d-6292d2e3-0d6059"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_31"
+    type: socks5
+    server: 106.75.134.163
+    port: 1002
+    username: "b842175d-6292d2e3-32feec"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_32"
+    type: socks5
+    server: 106.75.134.163
+    port: 1000
+    username: "b842175d-6292d2e3-f02bc3"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_33"
+    type: socks5
+    server: 106.75.134.163
+    port: 1008
+    username: "b842175d-6292d2e3-f79ede"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_34"
+    type: socks5
+    server: 106.75.134.163
+    port: 1002
+    username: "b842175d-6292d2e3-2977f6"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_35"
+    type: socks5
+    server: 106.75.134.163
+    port: 1009
+    username: "b842175d-6292d2e3-ebe87a"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_36"
+    type: socks5
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-86fe5d"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_37"
+    type: socks5
+    server: 106.75.134.163
+    port: 1006
+    username: "b842175d-6292d2e3-38872a"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_38"
+    type: socks5
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-6bba76"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_39"
+    type: socks5
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-01b214"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_40"
+    type: socks5
+    server: 106.75.134.163
+    port: 1010
+    username: "b842175d-6292d2e3-68422b"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_41"
+    type: socks5
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-1a1d17"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_42"
+    type: socks5
+    server: 106.75.134.163
+    port: 1006
+    username: "b842175d-6292d2e3-7947a3"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_43"
+    type: socks5
+    server: 106.75.134.163
+    port: 1008
+    username: "b842175d-6292d2e3-06c2b7"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_44"
+    type: socks5
+    server: 106.75.134.163
+    port: 1002
+    username: "b842175d-6292d2e3-9c6064"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_45"
+    type: socks5
+    server: 106.75.134.163
+    port: 1002
+    username: "b842175d-6292d2e3-b7b408"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_46"
+    type: socks5
+    server: 106.75.134.163
+    port: 1003
+    username: "b842175d-6292d2e3-5425a2"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_47"
+    type: socks5
+    server: 106.75.134.163
+    port: 1000
+    username: "b842175d-6292d2e3-eae80e"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_48"
+    type: socks5
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-d79629"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_49"
+    type: socks5
+    server: 106.75.134.163
+    port: 1001
+    username: "b842175d-6292d2e3-933bdb"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本付款_50"
+    type: socks5
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-a711ac"
+    password: "wifi-jp-10--"
+    dialer-proxy: "机场中转"
     udp: true
 
 proxy-groups:
@@ -103,6 +448,45 @@ proxy-groups:
       - "日本付款_9"
       - "日本付款_10"
       - "日本付款_11"
+      - "日本付款_12"
+      - "日本付款_13"
+      - "日本付款_14"
+      - "日本付款_15"
+      - "日本付款_16"
+      - "日本付款_17"
+      - "日本付款_18"
+      - "日本付款_19"
+      - "日本付款_20"
+      - "日本付款_21"
+      - "日本付款_22"
+      - "日本付款_23"
+      - "日本付款_24"
+      - "日本付款_25"
+      - "日本付款_26"
+      - "日本付款_27"
+      - "日本付款_28"
+      - "日本付款_29"
+      - "日本付款_30"
+      - "日本付款_31"
+      - "日本付款_32"
+      - "日本付款_33"
+      - "日本付款_34"
+      - "日本付款_35"
+      - "日本付款_36"
+      - "日本付款_37"
+      - "日本付款_38"
+      - "日本付款_39"
+      - "日本付款_40"
+      - "日本付款_41"
+      - "日本付款_42"
+      - "日本付款_43"
+      - "日本付款_44"
+      - "日本付款_45"
+      - "日本付款_46"
+      - "日本付款_47"
+      - "日本付款_48"
+      - "日本付款_49"
+      - "日本付款_50"
       - "机场中转"
       - DIRECT
 
