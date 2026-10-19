@@ -58,15 +58,22 @@ rules:
     - DOMAIN-SUFFIX,gvt2.com,机场中转
     - DOMAIN-SUFFIX,gvt3.com,机场中转
     - DOMAIN-SUFFIX,gvt6.com,机场中转
+    - DOMAIN-KEYWORD,play-lh.googleusercontent.com,机场中转
     - DOMAIN-SUFFIX,signin.ea.com,机场中转
     - DOMAIN-SUFFIX,accounts.ea.com,机场中转
     - DOMAIN-SUFFIX,ea.com,机场中转
     - DOMAIN-SUFFIX,eajoy.com,机场中转
     - DOMAIN-SUFFIX,ea-services.com,机场中转
+    - PROCESS-NAME,dnplayer.exe,礼品卡付款
+    - PROCESS-NAME,LdBoxHeadless.exe,礼品卡付款
+    - PROCESS-NAME,MuMuPlayer.exe,礼品卡付款
+    - PROCESS-NAME,HD-Player.exe,礼品卡付款
     - DOMAIN-KEYWORD,nekostock,礼品卡付款
     - DOMAIN-SUFFIX,nekostock.com,礼品卡付款
     - DOMAIN-SUFFIX,clients.google.com,礼品卡付款
+    - DOMAIN-SUFFIX,clients1.google.com,礼品卡付款
     - DOMAIN,android.clients.google.com,礼品卡付款
+    - DOMAIN-SUFFIX,playatoms-pa.googleapis.com,礼品卡付款
     - DOMAIN-SUFFIX,play.googleapis.com,礼品卡付款
     - DOMAIN-SUFFIX,play-fe.googleapis.com,礼品卡付款
     - DOMAIN,play.google.com,礼品卡付款
