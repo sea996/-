@@ -54,7 +54,7 @@ proxy-groups:
       - DIRECT
 
 rules:
-    - AND,((NETWORK,udp),(DST-PORT,443)),REJECT
+  - AND,((NETWORK,udp),(DST-PORT,443)),REJECT
   - DOMAIN-SUFFIX,gvt1.com,REJECT
   - DOMAIN-SUFFIX,gvt2.com,REJECT
   - DOMAIN-SUFFIX,gvt3.com,REJECT
