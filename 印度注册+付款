@@ -30,402 +30,402 @@ proxy-providers:
 proxies:
   - name: "印度付款注册_1"
     type: socks5
-    server: 106.75.134.163
-    port: 1000
-    username: "b842175d-6292d2e3-95c87a"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-cdag1h5j-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_2"
     type: socks5
-    server: 106.75.134.163
-    port: 1001
-    username: "b842175d-6292d2e3-c80284"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-cdh6b918-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_3"
     type: socks5
-    server: 106.75.134.163
-    port: 1002
-    username: "b842175d-6292d2e3-c8b73d"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-05eagcfb-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_4"
     type: socks5
-    server: 106.75.134.163
-    port: 1003
-    username: "b842175d-6292d2e3-16c209"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-0eefi4k1-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_5"
     type: socks5
-    server: 106.75.134.163
-    port: 1004
-    username: "b842175d-6292d2e3-7ec86f"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-ea5i04g4-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_6"
     type: socks5
-    server: 106.75.134.163
-    port: 1005
-    username: "b842175d-6292d2e3-46115e"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-k2a4bd03-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_7"
     type: socks5
-    server: 106.75.134.163
-    port: 1006
-    username: "b842175d-6292d2e3-ca7fa4"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-99h2bk0j-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_8"
     type: socks5
-    server: 106.75.134.163
-    port: 1007
-    username: "b842175d-6292d2e3-537d5c"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-46c8d220-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_9"
     type: socks5
-    server: 106.75.134.163
-    port: 1008
-    username: "b842175d-6292d2e3-4eaff5"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-730a1b38-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_10"
     type: socks5
-    server: 106.75.134.163
-    port: 1009
-    username: "b842175d-6292d2e3-1bbee3"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-35494bh6-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_11"
     type: socks5
-    server: 106.75.134.163
-    port: 1010
-    username: "b842175d-6292d2e3-772b04"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-a0cbikgj-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_12"
     type: socks5
-    server: 106.75.134.163
-    port: 1009
-    username: "b842175d-6292d2e3-0677e5"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-8845k66k-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_13"
     type: socks5
-    server: 106.75.134.163
-    port: 1010
-    username: "b842175d-6292d2e3-a1118a"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-iahg22j5-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_14"
     type: socks5
-    server: 106.75.134.163
-    port: 1008
-    username: "b842175d-6292d2e3-04a114"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-d7331h66-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_15"
     type: socks5
-    server: 106.75.134.163
-    port: 1007
-    username: "b842175d-6292d2e3-6fb6f5"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-6jeb12ah-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_16"
     type: socks5
-    server: 106.75.134.163
-    port: 1007
-    username: "b842175d-6292d2e3-5a4caa"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-0i30c685-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_17"
     type: socks5
-    server: 106.75.134.163
-    port: 1006
-    username: "b842175d-6292d2e3-243b79"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-341ajhkb-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_18"
     type: socks5
-    server: 106.75.134.163
-    port: 1004
-    username: "b842175d-6292d2e3-643a8b"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-2ed4kc65-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_19"
     type: socks5
-    server: 106.75.134.163
-    port: 1000
-    username: "b842175d-6292d2e3-9ef6bc"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-a84j0ega-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_20"
     type: socks5
-    server: 106.75.134.163
-    port: 1004
-    username: "b842175d-6292d2e3-52b1a5"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-0i2jk1hk-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_21"
     type: socks5
-    server: 106.75.134.163
-    port: 1005
-    username: "b842175d-6292d2e3-8043f1"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-713db8c9-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_22"
     type: socks5
-    server: 106.75.134.163
-    port: 1006
-    username: "b842175d-6292d2e3-ea6095"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-f9196ig9-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_23"
     type: socks5
-    server: 106.75.134.163
-    port: 1010
-    username: "b842175d-6292d2e3-8d1b01"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-144djij0-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_24"
     type: socks5
-    server: 106.75.134.163
-    port: 1000
-    username: "b842175d-6292d2e3-94e537"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-2jdejfb5-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_25"
     type: socks5
-    server: 106.75.134.163
-    port: 1005
-    username: "b842175d-6292d2e3-13741e"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-8c389c64-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_26"
     type: socks5
-    server: 106.75.134.163
-    port: 1004
-    username: "b842175d-6292d2e3-5c8235"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-jcd13jjc-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_27"
     type: socks5
-    server: 106.75.134.163
-    port: 1003
-    username: "b842175d-6292d2e3-946547"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-daija8jd-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_28"
     type: socks5
-    server: 106.75.134.163
-    port: 1000
-    username: "b842175d-6292d2e3-9d236c"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-46ad4000-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_29"
     type: socks5
-    server: 106.75.134.163
-    port: 1005
-    username: "b842175d-6292d2e3-da850d"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-bgbj600d-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_30"
     type: socks5
-    server: 106.75.134.163
-    port: 1010
-    username: "b842175d-6292d2e3-711d39"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-9jkfjg6f-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_31"
     type: socks5
-    server: 106.75.134.163
-    port: 1000
-    username: "b842175d-6292d2e3-a47d8d"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-43dekaj2-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_32"
     type: socks5
-    server: 106.75.134.163
-    port: 1004
-    username: "b842175d-6292d2e3-e3009b"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-1hbga1k6-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_33"
     type: socks5
-    server: 106.75.134.163
-    port: 1009
-    username: "b842175d-6292d2e3-2466ef"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-j06che70-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_34"
     type: socks5
-    server: 106.75.134.163
-    port: 1007
-    username: "b842175d-6292d2e3-e7570b"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-fi8hj9bk-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_35"
     type: socks5
-    server: 106.75.134.163
-    port: 1002
-    username: "b842175d-6292d2e3-fc5175"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-1d1iig37-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_36"
     type: socks5
-    server: 106.75.134.163
-    port: 1008
-    username: "b842175d-6292d2e3-7195b7"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-63ffkffg-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_37"
     type: socks5
-    server: 106.75.134.163
-    port: 1009
-    username: "b842175d-6292d2e3-0610db"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-ca790j7b-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_38"
     type: socks5
-    server: 106.75.134.163
-    port: 1007
-    username: "b842175d-6292d2e3-bf9a22"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-hkig3661-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_39"
     type: socks5
-    server: 106.75.134.163
-    port: 1007
-    username: "b842175d-6292d2e3-42f5fe"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-7eaadhb8-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_40"
     type: socks5
-    server: 106.75.134.163
-    port: 1004
-    username: "b842175d-6292d2e3-2004b7"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-1kaf2bg4-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_41"
     type: socks5
-    server: 106.75.134.163
-    port: 1000
-    username: "b842175d-6292d2e3-d013d4"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-k2ej6cci-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_42"
     type: socks5
-    server: 106.75.134.163
-    port: 1007
-    username: "b842175d-6292d2e3-405137"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-i6996d2j-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_43"
     type: socks5
-    server: 106.75.134.163
-    port: 1010
-    username: "b842175d-6292d2e3-be1b07"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-h3i227j6-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_44"
     type: socks5
-    server: 106.75.134.163
-    port: 1002
-    username: "b842175d-6292d2e3-f5ac80"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-3i7hhhgg-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_45"
     type: socks5
-    server: 106.75.134.163
-    port: 1009
-    username: "b842175d-6292d2e3-33871d"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-2g15cjc4-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_46"
     type: socks5
-    server: 106.75.134.163
-    port: 1001
-    username: "b842175d-6292d2e3-cdeede"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-1kj6c3fj-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_47"
     type: socks5
-    server: 106.75.134.163
-    port: 1002
-    username: "b842175d-6292d2e3-7a7adf"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-7b6i36kc-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_48"
     type: socks5
-    server: 106.75.134.163
-    port: 1001
-    username: "b842175d-6292d2e3-208d6b"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-i9a8k3cd-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_49"
     type: socks5
-    server: 106.75.134.163
-    port: 1005
-    username: "b842175d-6292d2e3-1f90f4"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-c84e5abh-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
   - name: "印度付款注册_50"
     type: socks5
-    server: 106.75.134.163
-    port: 1000
-    username: "b842175d-6292d2e3-7bc466"
-    password: "wifi-in-60--"
+    server: v2.proxyempire.io
+    port: 5000
+    username: "r_5672e7fe66-country-in-region-maharashtra-os-windows-sid-87fa07fh-ttl-60m"
+    password: "dc1b6adeec"
     dialer-proxy: "机场中转"
     udp: true
 
