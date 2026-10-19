@@ -15,8 +15,24 @@ dns:
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
 
+proxy-providers:
+  机场:
+    type: http
+    url: "https://xfx9k.no-mad-sub.one/link/Z7v9bsLFqKWZDL81?clash=3&extend=1"
+    interval: 86400
+    path: ./proxy_provider/jc.yaml
+    udp: true
+    health-check:
+      enable: true
+      interval: 600
+      url: http://connectivitycheck.platform.hicloud.com/generate_204
+
 proxies:
-# 暂无自定义 SOCKS5 代理节点
+  - name: "日本付款"
+    type: socks5
+    server: 192.168.2.2
+    port: 5501
+    udp: true
 
 proxy-groups:
   - name: "机场中转"
@@ -26,6 +42,7 @@ proxy-groups:
   - name: "礼品卡付款"
     type: select
     proxies:
+      - "日本付款"
       - "机场中转"
       - DIRECT
 
