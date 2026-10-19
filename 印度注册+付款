@@ -28,10 +28,10 @@ proxy-providers:
       url: http://connectivitycheck.platform.hicloud.com/generate_204
 
 proxies:
-  - name: "印度付款"
+  - name: "日本付款"
     type: socks5
-    server: 192.168.5.101
-    port: 5500
+    server: 192.168.2.2
+    port: 5501
     udp: true
 
 proxy-groups:
@@ -42,7 +42,7 @@ proxy-groups:
   - name: "礼品卡付款"
     type: select
     proxies:
-      - "印度付款"
+      - "日本付款"
       - "机场中转"
       - DIRECT
 
