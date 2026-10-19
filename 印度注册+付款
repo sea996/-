@@ -30,7 +30,7 @@ proxy-providers:
 proxies:
   - name: "印度付款"
     type: socks5
-    server: 192.168.2.2
+    server: 192.168.5.101
     port: 5500
     udp: true
 
