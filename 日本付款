@@ -54,16 +54,7 @@ proxy-groups:
       - DIRECT
 
 rules:
-    - DOMAIN-SUFFIX,gvt1.com,机场中转
-    - DOMAIN-SUFFIX,gvt2.com,机场中转
-    - DOMAIN-SUFFIX,gvt3.com,机场中转
-    - DOMAIN-SUFFIX,gvt6.com,机场中转
-    - DOMAIN-KEYWORD,play-lh.googleusercontent.com,机场中转
-    - DOMAIN-SUFFIX,signin.ea.com,机场中转
-    - DOMAIN-SUFFIX,accounts.ea.com,机场中转
-    - DOMAIN-SUFFIX,ea.com,机场中转
-    - DOMAIN-SUFFIX,eajoy.com,机场中转
-    - DOMAIN-SUFFIX,ea-services.com,机场中转
+    - GEOIP,LAN,DIRECT,no-resolve
     - DOMAIN,pay.google.com,礼品卡付款
     - DOMAIN,payments.google.com,礼品卡付款
     - DOMAIN,wallet.google.com,礼品卡付款
@@ -76,42 +67,45 @@ rules:
     - DOMAIN-KEYWORD,payment,礼品卡付款
     - DOMAIN-KEYWORD,billing,礼品卡付款
     - DOMAIN-KEYWORD,redeem,礼品卡付款
-    - DOMAIN,accounts.google.com,礼品卡付款
     - DOMAIN-SUFFIX,recaptcha.net,礼品卡付款
-    - DOMAIN-SUFFIX,google.com,礼品卡付款
-    - DOMAIN-SUFFIX,gstatic.com,礼品卡付款
-    - DOMAIN-SUFFIX,googleapis.com,礼品卡付款
-    - DOMAIN,android.clients.google.com,礼品卡付款
-    - DOMAIN-SUFFIX,clients.google.com,礼品卡付款
-    - DOMAIN-SUFFIX,clients1.google.com,礼品卡付款
-    - DOMAIN-SUFFIX,clients2.google.com,礼品卡付款
-    - DOMAIN-SUFFIX,clients3.google.com,礼品卡付款
-    - DOMAIN-SUFFIX,clients4.google.com,礼品卡付款
-    - DOMAIN,connectivitycheck.gstatic.com,礼品卡付款
-    - DOMAIN,accounts.google.com,礼品卡付款
-    - DOMAIN,families.google.com,礼品卡付款
-    - DOMAIN,myaccount.google.com,礼品卡付款
-    - DOMAIN-KEYWORD,families.google,礼品卡付款
-    - DOMAIN,passkeys.google.com,礼品卡付款
-    - DOMAIN,policies.google.com,礼品卡付款
-    - DOMAIN,play.google.com,礼品卡付款
-    - DOMAIN-KEYWORD,play.googleapis.com,礼品卡付款
-    - DOMAIN-KEYWORD,play-fe.googleapis.com,礼品卡付款
-    - DOMAIN-SUFFIX,google.com,礼品卡付款
-    - DOMAIN-SUFFIX,googleapis.com,礼品卡付款
-    - DOMAIN-SUFFIX,googleusercontent.com,礼品卡付款
-    - DOMAIN-SUFFIX,gstatic.com,礼品卡付款
-    - DOMAIN-SUFFIX,g.co,礼品卡付款
-    - DOMAIN-SUFFIX,ggpht.com,礼品卡付款
-    - DOMAIN-SUFFIX,android.com,礼品卡付款
-    - DOMAIN,mtalk.google.com,礼品卡付款
-    - DOMAIN-SUFFIX,firebaseio.com,礼品卡付款
-    - DOMAIN-KEYWORD,googleapis.cn,礼品卡付款
-    - DOMAIN-KEYWORD,gmail,礼品卡付款
     - DOMAIN,ping0.cc,礼品卡付款
+    - DOMAIN,ipip.la,礼品卡付款
     - DOMAIN,sspanel.net,礼品卡付款
     - DOMAIN-KEYWORD,orders-dra.iap.cloud.huawei,礼品卡付款
     - DOMAIN-SUFFIX,acs.cupdapp.cn,礼品卡付款
     - DOMAIN-KEYWORD,iap-pay-dra.cloud.huawei,礼品卡付款
-    - DOMAIN,ipip.la,礼品卡付款
+    - # Google Play 安装包与大文件更新 CDN
+    - DOMAIN-SUFFIX,gvt1.com,机场中转
+    - DOMAIN-SUFFIX,gvt2.com,机场中转
+    - DOMAIN-SUFFIX,gvt3.com,机场中转
+    - DOMAIN-SUFFIX,gvt5.com,机场中转
+    - DOMAIN-SUFFIX,gvt6.com,机场中转
+    - DOMAIN-KEYWORD,play-lh.googleusercontent.com,机场中转
+    - DOMAIN-SUFFIX,ea.com,机场中转
+    - DOMAIN-SUFFIX,signin.ea.com,机场中转
+    - DOMAIN-SUFFIX,accounts.ea.com,机场中转
+    - DOMAIN-SUFFIX,eajoy.com,机场中转
+    - DOMAIN-SUFFIX,ea-services.com,机场中转
+    - DOMAIN-SUFFIX,google.com,机场中转
+    - DOMAIN-SUFFIX,googleapis.com,机场中转
+    - DOMAIN-SUFFIX,googleusercontent.com,机场中转
+    - DOMAIN-SUFFIX,gstatic.com,机场中转
+    - DOMAIN-SUFFIX,google.co.jp,机场中转
+    - DOMAIN-SUFFIX,google.jp,机场中转
+    - DOMAIN-SUFFIX,android.com,机场中转
+    - DOMAIN-SUFFIX,g.co,机场中转
+    - DOMAIN-SUFFIX,ggpht.com,机场中转
+    - DOMAIN-SUFFIX,firebaseio.com,机场中转
+    - DOMAIN-SUFFIX,1e100.net,机场中转
+    - DOMAIN-KEYWORD,googleapis.cn,机场中转
+    - DOMAIN-KEYWORD,gmail,机场中转
+    - DOMAIN-SUFFIX,cn,DIRECT
+    - DOMAIN-KEYWORD,baidu,DIRECT
+    - DOMAIN-KEYWORD,taobao,DIRECT
+    - DOMAIN-KEYWORD,tmall,DIRECT
+    - DOMAIN-KEYWORD,jd,DIRECT
+    - DOMAIN-KEYWORD,bilibili,DIRECT
+    - DOMAIN-KEYWORD,qq,DIRECT
+    - DOMAIN-KEYWORD,alipay,DIRECT
+    - GEOIP,CN,DIRECT
     - MATCH,机场中转
