@@ -18,7 +18,7 @@ dns:
 proxy-providers:
   机场:
     type: http
-    url: "https://xisax.no-mad-sub.one/link/Z7v9bsLFqKWZDL81?clash=3&extend=1"
+    url: "https://xfx9k.no-mad-sub.one/link/Z7v9bsLFqKWZDL81?clash=3&extend=1"
     interval: 86400
     path: ./proxy_provider/jc.yaml
     udp: true
@@ -28,20 +28,404 @@ proxy-providers:
       url: http://connectivitycheck.platform.hicloud.com/generate_204
 
 proxies:
-  - name: "印度付款"
-    type: socks5
-    server: proxy.soax.com
-    port: 1337
-    username: "country-in-network-res_mob"
-    password: "f6KPToJudn"
-    dialer-proxy: "机场中转"
-    udp: true
-  - name: "印度注册"
+  - name: "印度付款注册_1"
     type: socks5
     server: 106.75.134.163
     port: 1000
-    username: "b842175d-6292d2e3-7a9a79"
-    password: "wifi-in-10-wb-baharampur"
+    username: "b842175d-6292d2e3-95c87a"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_2"
+    type: socks5
+    server: 106.75.134.163
+    port: 1001
+    username: "b842175d-6292d2e3-c80284"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_3"
+    type: socks5
+    server: 106.75.134.163
+    port: 1002
+    username: "b842175d-6292d2e3-c8b73d"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_4"
+    type: socks5
+    server: 106.75.134.163
+    port: 1003
+    username: "b842175d-6292d2e3-16c209"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_5"
+    type: socks5
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-7ec86f"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_6"
+    type: socks5
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-46115e"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_7"
+    type: socks5
+    server: 106.75.134.163
+    port: 1006
+    username: "b842175d-6292d2e3-ca7fa4"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_8"
+    type: socks5
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-537d5c"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_9"
+    type: socks5
+    server: 106.75.134.163
+    port: 1008
+    username: "b842175d-6292d2e3-4eaff5"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_10"
+    type: socks5
+    server: 106.75.134.163
+    port: 1009
+    username: "b842175d-6292d2e3-1bbee3"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_11"
+    type: socks5
+    server: 106.75.134.163
+    port: 1010
+    username: "b842175d-6292d2e3-772b04"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_12"
+    type: socks5
+    server: 106.75.134.163
+    port: 1009
+    username: "b842175d-6292d2e3-0677e5"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_13"
+    type: socks5
+    server: 106.75.134.163
+    port: 1010
+    username: "b842175d-6292d2e3-a1118a"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_14"
+    type: socks5
+    server: 106.75.134.163
+    port: 1008
+    username: "b842175d-6292d2e3-04a114"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_15"
+    type: socks5
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-6fb6f5"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_16"
+    type: socks5
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-5a4caa"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_17"
+    type: socks5
+    server: 106.75.134.163
+    port: 1006
+    username: "b842175d-6292d2e3-243b79"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_18"
+    type: socks5
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-643a8b"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_19"
+    type: socks5
+    server: 106.75.134.163
+    port: 1000
+    username: "b842175d-6292d2e3-9ef6bc"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_20"
+    type: socks5
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-52b1a5"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_21"
+    type: socks5
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-8043f1"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_22"
+    type: socks5
+    server: 106.75.134.163
+    port: 1006
+    username: "b842175d-6292d2e3-ea6095"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_23"
+    type: socks5
+    server: 106.75.134.163
+    port: 1010
+    username: "b842175d-6292d2e3-8d1b01"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_24"
+    type: socks5
+    server: 106.75.134.163
+    port: 1000
+    username: "b842175d-6292d2e3-94e537"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_25"
+    type: socks5
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-13741e"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_26"
+    type: socks5
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-5c8235"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_27"
+    type: socks5
+    server: 106.75.134.163
+    port: 1003
+    username: "b842175d-6292d2e3-946547"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_28"
+    type: socks5
+    server: 106.75.134.163
+    port: 1000
+    username: "b842175d-6292d2e3-9d236c"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_29"
+    type: socks5
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-da850d"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_30"
+    type: socks5
+    server: 106.75.134.163
+    port: 1010
+    username: "b842175d-6292d2e3-711d39"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_31"
+    type: socks5
+    server: 106.75.134.163
+    port: 1000
+    username: "b842175d-6292d2e3-a47d8d"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_32"
+    type: socks5
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-e3009b"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_33"
+    type: socks5
+    server: 106.75.134.163
+    port: 1009
+    username: "b842175d-6292d2e3-2466ef"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_34"
+    type: socks5
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-e7570b"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_35"
+    type: socks5
+    server: 106.75.134.163
+    port: 1002
+    username: "b842175d-6292d2e3-fc5175"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_36"
+    type: socks5
+    server: 106.75.134.163
+    port: 1008
+    username: "b842175d-6292d2e3-7195b7"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_37"
+    type: socks5
+    server: 106.75.134.163
+    port: 1009
+    username: "b842175d-6292d2e3-0610db"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_38"
+    type: socks5
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-bf9a22"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_39"
+    type: socks5
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-42f5fe"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_40"
+    type: socks5
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-2004b7"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_41"
+    type: socks5
+    server: 106.75.134.163
+    port: 1000
+    username: "b842175d-6292d2e3-d013d4"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_42"
+    type: socks5
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-405137"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_43"
+    type: socks5
+    server: 106.75.134.163
+    port: 1010
+    username: "b842175d-6292d2e3-be1b07"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_44"
+    type: socks5
+    server: 106.75.134.163
+    port: 1002
+    username: "b842175d-6292d2e3-f5ac80"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_45"
+    type: socks5
+    server: 106.75.134.163
+    port: 1009
+    username: "b842175d-6292d2e3-33871d"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_46"
+    type: socks5
+    server: 106.75.134.163
+    port: 1001
+    username: "b842175d-6292d2e3-cdeede"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_47"
+    type: socks5
+    server: 106.75.134.163
+    port: 1002
+    username: "b842175d-6292d2e3-7a7adf"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_48"
+    type: socks5
+    server: 106.75.134.163
+    port: 1001
+    username: "b842175d-6292d2e3-208d6b"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_49"
+    type: socks5
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-1f90f4"
+    password: "wifi-in-60--"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "印度付款注册_50"
+    type: socks5
+    server: 106.75.134.163
+    port: 1000
+    username: "b842175d-6292d2e3-7bc466"
+    password: "wifi-in-60--"
     dialer-proxy: "机场中转"
     udp: true
 
@@ -53,8 +437,56 @@ proxy-groups:
   - name: "礼品卡付款"
     type: select
     proxies:
-      - "印度付款"
-      - "印度注册"
+      - "印度付款注册_1"
+      - "印度付款注册_2"
+      - "印度付款注册_3"
+      - "印度付款注册_4"
+      - "印度付款注册_5"
+      - "印度付款注册_6"
+      - "印度付款注册_7"
+      - "印度付款注册_8"
+      - "印度付款注册_9"
+      - "印度付款注册_10"
+      - "印度付款注册_11"
+      - "印度付款注册_12"
+      - "印度付款注册_13"
+      - "印度付款注册_14"
+      - "印度付款注册_15"
+      - "印度付款注册_16"
+      - "印度付款注册_17"
+      - "印度付款注册_18"
+      - "印度付款注册_19"
+      - "印度付款注册_20"
+      - "印度付款注册_21"
+      - "印度付款注册_22"
+      - "印度付款注册_23"
+      - "印度付款注册_24"
+      - "印度付款注册_25"
+      - "印度付款注册_26"
+      - "印度付款注册_27"
+      - "印度付款注册_28"
+      - "印度付款注册_29"
+      - "印度付款注册_30"
+      - "印度付款注册_31"
+      - "印度付款注册_32"
+      - "印度付款注册_33"
+      - "印度付款注册_34"
+      - "印度付款注册_35"
+      - "印度付款注册_36"
+      - "印度付款注册_37"
+      - "印度付款注册_38"
+      - "印度付款注册_39"
+      - "印度付款注册_40"
+      - "印度付款注册_41"
+      - "印度付款注册_42"
+      - "印度付款注册_43"
+      - "印度付款注册_44"
+      - "印度付款注册_45"
+      - "印度付款注册_46"
+      - "印度付款注册_47"
+      - "印度付款注册_48"
+      - "印度付款注册_49"
+      - "印度付款注册_50"
       - "机场中转"
       - DIRECT
 
