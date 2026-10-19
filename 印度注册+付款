@@ -54,24 +54,36 @@ proxy-groups:
       - DIRECT
 
 rules:
-    - DOMAIN-SUFFIX,gvt1.com,机场中转
-    - DOMAIN-SUFFIX,gvt2.com,机场中转
-    - DOMAIN-SUFFIX,gvt3.com,机场中转
-    - DOMAIN-SUFFIX,gvt6.com,机场中转
-    - DOMAIN-KEYWORD,play-lh.googleusercontent.com,机场中转
-    - DOMAIN-SUFFIX,signin.ea.com,机场中转
-    - DOMAIN-SUFFIX,accounts.ea.com,机场中转
-    - DOMAIN-SUFFIX,ea.com,机场中转
-    - DOMAIN-SUFFIX,eajoy.com,机场中转
-    - DOMAIN-SUFFIX,ea-services.com,机场中转
+    - AND,((NETWORK,udp),(DST-PORT,443)),REJECT
+    - DOMAIN-SUFFIX,gvt1.com,REJECT
+    - DOMAIN-SUFFIX,gvt2.com,REJECT
+    - DOMAIN-SUFFIX,gvt3.com,REJECT
+    - DOMAIN-SUFFIX,gvt6.com,REJECT
+    - PROCESS-NAME,dnplayer.exe,礼品卡付款
+    - PROCESS-NAME,LdBoxHeadless.exe,礼品卡付款
+    - PROCESS-NAME,LdBoxPlayer.exe,礼品卡付款
+    - PROCESS-NAME,MuMuPlayer.exe,礼品卡付款
+    - PROCESS-NAME,NemuPlayer.exe,礼品卡付款
+    - PROCESS-NAME,HD-Player.exe,礼品卡付款
+    - DOMAIN-KEYWORD,nekostock,礼品卡付款
+    - DOMAIN-SUFFIX,nekostock.com,礼品卡付款
+    - DOMAIN-SUFFIX,clients.google.com,礼品卡付款
+    - DOMAIN-SUFFIX,clients1.google.com,礼品卡付款
+    - DOMAIN-SUFFIX,clients2.google.com,礼品卡付款
+    - DOMAIN-SUFFIX,clients3.google.com,礼品卡付款
+    - DOMAIN-SUFFIX,clients4.google.com,礼品卡付款
+    - DOMAIN,android.clients.google.com,礼品卡付款
+    - DOMAIN-SUFFIX,playatoms-pa.googleapis.com,礼品卡付款
+    - DOMAIN-SUFFIX,play.googleapis.com,礼品卡付款
+    - DOMAIN-SUFFIX,play-fe.googleapis.com,礼品卡付款
+    - DOMAIN-KEYWORD,playbilling,礼品卡付款
+    - DOMAIN-KEYWORD,googlepay,礼品卡付款
+    - DOMAIN-KEYWORD,inappbilling,礼品卡付款
     - DOMAIN,pay.google.com,礼品卡付款
     - DOMAIN,payments.google.com,礼品卡付款
     - DOMAIN,wallet.google.com,礼品卡付款
     - DOMAIN-SUFFIX,pay.google,礼品卡付款
     - DOMAIN-SUFFIX,wallet.google,礼品卡付款
-    - DOMAIN-KEYWORD,playbilling,礼品卡付款
-    - DOMAIN-KEYWORD,googlepay,礼品卡付款
-    - DOMAIN-KEYWORD,inappbilling,礼品卡付款
     - DOMAIN-KEYWORD,checkout,礼品卡付款
     - DOMAIN-KEYWORD,payment,礼品卡付款
     - DOMAIN-KEYWORD,billing,礼品卡付款
@@ -83,8 +95,6 @@ rules:
     - DOMAIN,passkeys.google.com,礼品卡付款
     - DOMAIN,policies.google.com,礼品卡付款
     - DOMAIN,play.google.com,礼品卡付款
-    - DOMAIN-KEYWORD,play.googleapis.com,礼品卡付款
-    - DOMAIN-KEYWORD,play-fe.googleapis.com,礼品卡付款
     - DOMAIN-SUFFIX,google.com,礼品卡付款
     - DOMAIN-SUFFIX,googleapis.com,礼品卡付款
     - DOMAIN-SUFFIX,googleusercontent.com,礼品卡付款
@@ -96,10 +106,14 @@ rules:
     - DOMAIN-SUFFIX,firebaseio.com,礼品卡付款
     - DOMAIN-KEYWORD,googleapis.cn,礼品卡付款
     - DOMAIN-KEYWORD,gmail,礼品卡付款
+    - DOMAIN-SUFFIX,google-analytics.com,礼品卡付款
+    - DOMAIN-SUFFIX,app-measurement.com,礼品卡付款
     - DOMAIN,ping0.cc,礼品卡付款
-    - DOMAIN,sspanel.net,礼品卡付款
-    - DOMAIN-KEYWORD,orders-dra.iap.cloud.huawei,礼品卡付款
-    - DOMAIN-SUFFIX,acs.cupdapp.cn,礼品卡付款
-    - DOMAIN-KEYWORD,iap-pay-dra.cloud.huawei,礼品卡付款
     - DOMAIN,ipip.la,礼品卡付款
+    - DOMAIN,ipinfo.io,礼品卡付款
+    - DOMAIN-SUFFIX,signin.ea.com,机场中转
+    - DOMAIN-SUFFIX,accounts.ea.com,机场中转
+    - DOMAIN-SUFFIX,ea.com,机场中转
+    - DOMAIN-SUFFIX,eajoy.com,机场中转
+    - DOMAIN-SUFFIX,ea-services.com,机场中转
     - MATCH,机场中转
