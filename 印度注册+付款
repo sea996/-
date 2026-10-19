@@ -116,4 +116,4 @@ rules:
     - DOMAIN-SUFFIX,ea.com,机场中转
     - DOMAIN-SUFFIX,eajoy.com,机场中转
     - DOMAIN-SUFFIX,ea-services.com,机场中转
-    - MATCH,机场中转
+    - MATCH,礼品卡付款
