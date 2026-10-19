@@ -28,10 +28,60 @@ proxy-providers:
       url: http://connectivitycheck.platform.hicloud.com/generate_204
 
 proxies:
-  - name: "日本付款"
+  - name: "日本付款_1"
+    type: socks5
+    server: 192.168.2.2
+    port: 5500
+    udp: true
+  - name: "日本付款_2"
     type: socks5
     server: 192.168.2.2
     port: 5501
+    udp: true
+  - name: "日本付款_3"
+    type: socks5
+    server: 192.168.2.2
+    port: 5502
+    udp: true
+  - name: "日本付款_4"
+    type: socks5
+    server: 192.168.2.2
+    port: 5503
+    udp: true
+  - name: "日本付款_5"
+    type: socks5
+    server: 192.168.2.2
+    port: 5504
+    udp: true
+  - name: "日本付款_6"
+    type: socks5
+    server: 192.168.2.2
+    port: 5505
+    udp: true
+  - name: "日本付款_7"
+    type: socks5
+    server: 192.168.2.2
+    port: 5506
+    udp: true
+  - name: "日本付款_8"
+    type: socks5
+    server: 192.168.2.2
+    port: 5507
+    udp: true
+  - name: "日本付款_9"
+    type: socks5
+    server: 192.168.2.2
+    port: 5508
+    udp: true
+  - name: "日本付款_10"
+    type: socks5
+    server: 192.168.2.2
+    port: 5509
+    udp: true
+  - name: "日本付款_11"
+    type: socks5
+    server: 192.168.2.2
+    port: 5510
     udp: true
 
 proxy-groups:
@@ -42,7 +92,17 @@ proxy-groups:
   - name: "礼品卡付款"
     type: select
     proxies:
-      - "日本付款"
+      - "日本付款_1"
+      - "日本付款_2"
+      - "日本付款_3"
+      - "日本付款_4"
+      - "日本付款_5"
+      - "日本付款_6"
+      - "日本付款_7"
+      - "日本付款_8"
+      - "日本付款_9"
+      - "日本付款_10"
+      - "日本付款_11"
       - "机场中转"
       - DIRECT
 
