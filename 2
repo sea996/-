@@ -28,12 +28,177 @@ proxy-providers:
       url: http://connectivitycheck.platform.hicloud.com/generate_204
 
 proxies:
-  - name: "日本付款"
+  - name: "日本付款_1"
+    type: socks5
+    server: 192.168.2.2
+    port: 5501
+    udp: true
+  - name: "日本付款_2"
     type: socks5
     server: proxy.soax.com
     port: 1337
     username: "country-jp-network-res_mob"
     password: "z3zUbYOvIa"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_1"
+    type: socks5
+    server: 124.243.174.26
+    port: 10118
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_2"
+    type: socks5
+    server: 111.119.242.223
+    port: 10094
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_3"
+    type: socks5
+    server: 111.119.193.184
+    port: 10109
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_4"
+    type: socks5
+    server: 119.13.102.53
+    port: 10165
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_5"
+    type: socks5
+    server: 124.243.132.7
+    port: 10085
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_6"
+    type: socks5
+    server: 166.108.235.137
+    port: 10124
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_7"
+    type: socks5
+    server: 111.119.218.30
+    port: 10084
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_8"
+    type: socks5
+    server: 101.46.11.201
+    port: 10113
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_9"
+    type: socks5
+    server: 111.119.196.117
+    port: 10083
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_10"
+    type: socks5
+    server: 166.108.194.234
+    port: 10120
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_11"
+    type: socks5
+    server: 119.13.101.183
+    port: 10084
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_12"
+    type: socks5
+    server: 114.119.181.179
+    port: 10104
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_13"
+    type: socks5
+    server: 124.243.188.214
+    port: 10110
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_14"
+    type: socks5
+    server: 111.119.219.80
+    port: 10116
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_15"
+    type: socks5
+    server: 111.119.196.104
+    port: 10114
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_16"
+    type: socks5
+    server: 94.74.80.159
+    port: 10086
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_17"
+    type: socks5
+    server: 111.119.242.116
+    port: 10129
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_18"
+    type: socks5
+    server: 111.119.239.203
+    port: 10078
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_19"
+    type: socks5
+    server: 166.108.207.43
+    port: 10079
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_20"
+    type: socks5
+    server: 110.238.107.60
+    port: 10090
+    username: "111"
+    password: "222"
     dialer-proxy: "机场中转"
     udp: true
 
@@ -45,7 +210,28 @@ proxy-groups:
   - name: "礼品卡付款"
     type: select
     proxies:
-      - "日本付款"
+      - "日本付款_1"
+      - "日本付款_2"
+      - "日本注册_1"
+      - "日本注册_2"
+      - "日本注册_3"
+      - "日本注册_4"
+      - "日本注册_5"
+      - "日本注册_6"
+      - "日本注册_7"
+      - "日本注册_8"
+      - "日本注册_9"
+      - "日本注册_10"
+      - "日本注册_11"
+      - "日本注册_12"
+      - "日本注册_13"
+      - "日本注册_14"
+      - "日本注册_15"
+      - "日本注册_16"
+      - "日本注册_17"
+      - "日本注册_18"
+      - "日本注册_19"
+      - "日本注册_20"
       - "机场中转"
       - DIRECT
 
