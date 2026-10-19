@@ -28,404 +28,404 @@ proxy-providers:
       url: http://connectivitycheck.platform.hicloud.com/generate_204
 
 proxies:
-  - name: "印度付款注册_1"
+  - name: "印度注册付款_1"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-7ke5fcbi-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1000
+    username: "b842175d-6292d2e3-3c8f8f"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_2"
+  - name: "印度注册付款_2"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-3kkkf85k-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1001
+    username: "b842175d-6292d2e3-495662"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_3"
+  - name: "印度注册付款_3"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-j3d6iihg-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1002
+    username: "b842175d-6292d2e3-0bdbaa"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_4"
+  - name: "印度注册付款_4"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-bc055h65-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1003
+    username: "b842175d-6292d2e3-612dac"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_5"
+  - name: "印度注册付款_5"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-89fkag3j-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-c24693"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_6"
+  - name: "印度注册付款_6"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-357eika3-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-ec6e8d"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_7"
+  - name: "印度注册付款_7"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-i1i631fa-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1006
+    username: "b842175d-6292d2e3-591666"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_8"
+  - name: "印度注册付款_8"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-a3aj3gfh-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-358e2b"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_9"
+  - name: "印度注册付款_9"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-gg8h0ejk-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1008
+    username: "b842175d-6292d2e3-dcf9ed"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_10"
+  - name: "印度注册付款_10"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-893hgcc9-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1009
+    username: "b842175d-6292d2e3-b791f4"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_11"
+  - name: "印度注册付款_11"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-j64jbjde-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1010
+    username: "b842175d-6292d2e3-024fb1"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_12"
+  - name: "印度注册付款_12"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-bf32ge9b-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1006
+    username: "b842175d-6292d2e3-3a5049"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_13"
+  - name: "印度注册付款_13"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-5b889iji-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-9c37ef"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_14"
+  - name: "印度注册付款_14"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-8ib7b3e7-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-814a4f"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_15"
+  - name: "印度注册付款_15"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-ccbgd65d-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-adee87"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_16"
+  - name: "印度注册付款_16"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-a02aj52b-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1001
+    username: "b842175d-6292d2e3-21388c"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_17"
+  - name: "印度注册付款_17"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-52fk158d-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-e5ccb7"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_18"
+  - name: "印度注册付款_18"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-h0g2a16b-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-7f5dba"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_19"
+  - name: "印度注册付款_19"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-15fci6j2-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1008
+    username: "b842175d-6292d2e3-d69696"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_20"
+  - name: "印度注册付款_20"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-3g9c314h-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1000
+    username: "b842175d-6292d2e3-e92b89"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_21"
+  - name: "印度注册付款_21"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-ieea3ihb-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1009
+    username: "b842175d-6292d2e3-991c07"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_22"
+  - name: "印度注册付款_22"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-5f1b8287-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1006
+    username: "b842175d-6292d2e3-731359"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_23"
+  - name: "印度注册付款_23"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-iiai7bja-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-465312"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_24"
+  - name: "印度注册付款_24"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-2973b5a6-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1008
+    username: "b842175d-6292d2e3-9eee20"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_25"
+  - name: "印度注册付款_25"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-493b753e-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1000
+    username: "b842175d-6292d2e3-fbd58d"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_26"
+  - name: "印度注册付款_26"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-fjb70d56-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1000
+    username: "b842175d-6292d2e3-dd3172"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_27"
+  - name: "印度注册付款_27"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-9b90jec8-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1003
+    username: "b842175d-6292d2e3-11ac03"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_28"
+  - name: "印度注册付款_28"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-d8561ig5-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-57cf37"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_29"
+  - name: "印度注册付款_29"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-81ceajj5-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-23fede"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_30"
+  - name: "印度注册付款_30"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-kkj1d9j4-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-557848"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_31"
+  - name: "印度注册付款_31"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-fb3f643a-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1002
+    username: "b842175d-6292d2e3-615a07"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_32"
+  - name: "印度注册付款_32"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-3k5i2fhj-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1001
+    username: "b842175d-6292d2e3-e25c6e"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_33"
+  - name: "印度注册付款_33"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-ek1ai5dh-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-839d61"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_34"
+  - name: "印度注册付款_34"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-5k81026f-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-5876dd"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_35"
+  - name: "印度注册付款_35"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-j7b28408-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-ec0d4f"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_36"
+  - name: "印度注册付款_36"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-8bd794db-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-044ffb"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_37"
+  - name: "印度注册付款_37"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-4516kbkf-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1005
+    username: "b842175d-6292d2e3-fa3679"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_38"
+  - name: "印度注册付款_38"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-2ika570f-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1010
+    username: "b842175d-6292d2e3-f6087d"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_39"
+  - name: "印度注册付款_39"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-80bb1j63-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1006
+    username: "b842175d-6292d2e3-53cd74"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_40"
+  - name: "印度注册付款_40"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-787286f8-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1000
+    username: "b842175d-6292d2e3-0f36df"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_41"
+  - name: "印度注册付款_41"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-j474e1jf-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1003
+    username: "b842175d-6292d2e3-dcb46d"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_42"
+  - name: "印度注册付款_42"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-66k62jdg-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1003
+    username: "b842175d-6292d2e3-2d7b9f"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_43"
+  - name: "印度注册付款_43"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-205ceiha-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1006
+    username: "b842175d-6292d2e3-3f0b79"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_44"
+  - name: "印度注册付款_44"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-9675d4ff-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1006
+    username: "b842175d-6292d2e3-4d967f"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_45"
+  - name: "印度注册付款_45"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-b8k8931k-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1000
+    username: "b842175d-6292d2e3-94bd28"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_46"
+  - name: "印度注册付款_46"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-357dk3ak-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-ad0fd8"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_47"
+  - name: "印度注册付款_47"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-88gid0jd-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1009
+    username: "b842175d-6292d2e3-e2ca55"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_48"
+  - name: "印度注册付款_48"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-7f64h2c8-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1004
+    username: "b842175d-6292d2e3-69b048"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_49"
+  - name: "印度注册付款_49"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-dhg9ea0j-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-a7f823"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "印度付款注册_50"
+  - name: "印度注册付款_50"
     type: socks5
-    server: v2.proxyempire.io
-    port: 5000
-    username: "r_5672e7fe66-country-in-os-android-sid-fha67b89-ttl-60m"
-    password: "dc1b6adeec"
+    server: 106.75.134.163
+    port: 1007
+    username: "b842175d-6292d2e3-180f7f"
+    password: "wifi-in-10-dl-newdelhi"
     dialer-proxy: "机场中转"
     udp: true
 
@@ -437,56 +437,56 @@ proxy-groups:
   - name: "礼品卡付款"
     type: select
     proxies:
-      - "印度付款注册_1"
-      - "印度付款注册_2"
-      - "印度付款注册_3"
-      - "印度付款注册_4"
-      - "印度付款注册_5"
-      - "印度付款注册_6"
-      - "印度付款注册_7"
-      - "印度付款注册_8"
-      - "印度付款注册_9"
-      - "印度付款注册_10"
-      - "印度付款注册_11"
-      - "印度付款注册_12"
-      - "印度付款注册_13"
-      - "印度付款注册_14"
-      - "印度付款注册_15"
-      - "印度付款注册_16"
-      - "印度付款注册_17"
-      - "印度付款注册_18"
-      - "印度付款注册_19"
-      - "印度付款注册_20"
-      - "印度付款注册_21"
-      - "印度付款注册_22"
-      - "印度付款注册_23"
-      - "印度付款注册_24"
-      - "印度付款注册_25"
-      - "印度付款注册_26"
-      - "印度付款注册_27"
-      - "印度付款注册_28"
-      - "印度付款注册_29"
-      - "印度付款注册_30"
-      - "印度付款注册_31"
-      - "印度付款注册_32"
-      - "印度付款注册_33"
-      - "印度付款注册_34"
-      - "印度付款注册_35"
-      - "印度付款注册_36"
-      - "印度付款注册_37"
-      - "印度付款注册_38"
-      - "印度付款注册_39"
-      - "印度付款注册_40"
-      - "印度付款注册_41"
-      - "印度付款注册_42"
-      - "印度付款注册_43"
-      - "印度付款注册_44"
-      - "印度付款注册_45"
-      - "印度付款注册_46"
-      - "印度付款注册_47"
-      - "印度付款注册_48"
-      - "印度付款注册_49"
-      - "印度付款注册_50"
+      - "印度注册付款_1"
+      - "印度注册付款_2"
+      - "印度注册付款_3"
+      - "印度注册付款_4"
+      - "印度注册付款_5"
+      - "印度注册付款_6"
+      - "印度注册付款_7"
+      - "印度注册付款_8"
+      - "印度注册付款_9"
+      - "印度注册付款_10"
+      - "印度注册付款_11"
+      - "印度注册付款_12"
+      - "印度注册付款_13"
+      - "印度注册付款_14"
+      - "印度注册付款_15"
+      - "印度注册付款_16"
+      - "印度注册付款_17"
+      - "印度注册付款_18"
+      - "印度注册付款_19"
+      - "印度注册付款_20"
+      - "印度注册付款_21"
+      - "印度注册付款_22"
+      - "印度注册付款_23"
+      - "印度注册付款_24"
+      - "印度注册付款_25"
+      - "印度注册付款_26"
+      - "印度注册付款_27"
+      - "印度注册付款_28"
+      - "印度注册付款_29"
+      - "印度注册付款_30"
+      - "印度注册付款_31"
+      - "印度注册付款_32"
+      - "印度注册付款_33"
+      - "印度注册付款_34"
+      - "印度注册付款_35"
+      - "印度注册付款_36"
+      - "印度注册付款_37"
+      - "印度注册付款_38"
+      - "印度注册付款_39"
+      - "印度注册付款_40"
+      - "印度注册付款_41"
+      - "印度注册付款_42"
+      - "印度注册付款_43"
+      - "印度注册付款_44"
+      - "印度注册付款_45"
+      - "印度注册付款_46"
+      - "印度注册付款_47"
+      - "印度注册付款_48"
+      - "印度注册付款_49"
+      - "印度注册付款_50"
       - "机场中转"
       - DIRECT
 
