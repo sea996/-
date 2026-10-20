@@ -1,0 +1,286 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:9090
+
+dns:
+  enable: true
+  ipv6: false
+  default-nameserver:
+    - 223.5.5.5
+    - 114.114.114.114
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+
+proxy-providers:
+  机场:
+    type: http
+    url: "https://xfx9k.no-mad-sub.one/link/Z7v9bsLFqKWZDL81?clash=3&extend=1"
+    interval: 86400
+    path: ./proxy_provider/jc.yaml
+    udp: true
+    health-check:
+      enable: true
+      interval: 600
+      url: http://connectivitycheck.platform.hicloud.com/generate_204
+
+proxies:
+  - name: "日本付款_1"
+    type: socks5
+    server: 192.168.2.2
+    port: 5501
+    udp: true
+  - name: "日本付款_2"
+    type: socks5
+    server: proxy.soax.com
+    port: 1337
+    username: "country-jp-network-res_mob"
+    password: "z3zUbYOvIa"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_1"
+    type: socks5
+    server: 124.243.174.26
+    port: 10118
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_2"
+    type: socks5
+    server: 111.119.242.223
+    port: 10094
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_3"
+    type: socks5
+    server: 111.119.193.184
+    port: 10109
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_4"
+    type: socks5
+    server: 119.13.102.53
+    port: 10165
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_5"
+    type: socks5
+    server: 124.243.132.7
+    port: 10085
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_6"
+    type: socks5
+    server: 166.108.235.137
+    port: 10124
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_7"
+    type: socks5
+    server: 111.119.218.30
+    port: 10084
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_8"
+    type: socks5
+    server: 101.46.11.201
+    port: 10113
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_9"
+    type: socks5
+    server: 111.119.196.117
+    port: 10083
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_10"
+    type: socks5
+    server: 166.108.194.234
+    port: 10120
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_11"
+    type: socks5
+    server: 119.13.101.183
+    port: 10084
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_12"
+    type: socks5
+    server: 114.119.181.179
+    port: 10104
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_13"
+    type: socks5
+    server: 124.243.188.214
+    port: 10110
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_14"
+    type: socks5
+    server: 111.119.219.80
+    port: 10116
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_15"
+    type: socks5
+    server: 111.119.196.104
+    port: 10114
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_16"
+    type: socks5
+    server: 94.74.80.159
+    port: 10086
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_17"
+    type: socks5
+    server: 111.119.242.116
+    port: 10129
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_18"
+    type: socks5
+    server: 111.119.239.203
+    port: 10078
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_19"
+    type: socks5
+    server: 166.108.207.43
+    port: 10079
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_20"
+    type: socks5
+    server: 110.238.107.60
+    port: 10090
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+
+proxy-groups:
+  - name: "机场中转"
+    type: select
+    use:
+      - "机场"
+  - name: "礼品卡付款"
+    type: select
+    proxies:
+      - "日本付款_1"
+      - "日本付款_2"
+      - "日本注册_1"
+      - "日本注册_2"
+      - "日本注册_3"
+      - "日本注册_4"
+      - "日本注册_5"
+      - "日本注册_6"
+      - "日本注册_7"
+      - "日本注册_8"
+      - "日本注册_9"
+      - "日本注册_10"
+      - "日本注册_11"
+      - "日本注册_12"
+      - "日本注册_13"
+      - "日本注册_14"
+      - "日本注册_15"
+      - "日本注册_16"
+      - "日本注册_17"
+      - "日本注册_18"
+      - "日本注册_19"
+      - "日本注册_20"
+      - "机场中转"
+      - DIRECT
+
+  - name: "主线路"
+    type: select
+    proxies:
+      - "礼品卡付款"
+      - "机场中转"
+      - DIRECT
+
+rules:
+- PROCESS-NAME,com.ea.gp.fifaultimate,礼品卡付款
+- ANDROID-APP,com.ea.gp.fifaultimate,礼品卡付款
+- DOMAIN-SUFFIX,signin.ea.com,机场中转
+- DOMAIN-SUFFIX,accounts.ea.com,机场中转
+- DOMAIN-SUFFIX,ea.com,机场中转
+- DOMAIN-SUFFIX,eajoy.com,机场中转
+- DOMAIN-SUFFIX,ea-services.com,机场中转
+- DOMAIN-KEYWORD,play.google.com/redeem,礼品卡付款
+- DOMAIN-KEYWORD,pay.google.com,礼品卡付款
+- DOMAIN-KEYWORD,wallet.google.com,礼品卡付款
+- DOMAIN-KEYWORD,checkout,礼品卡付款
+- DOMAIN-KEYWORD,payment,礼品卡付款
+- DOMAIN-KEYWORD,billing,礼品卡付款
+- DOMAIN-KEYWORD,store,礼品卡付款
+- DOMAIN-KEYWORD,redeem,礼品卡付款
+- DOMAIN-SUFFIX,google.com,礼品卡付款
+- DOMAIN-SUFFIX,googleapis.com,礼品卡付款
+- DOMAIN-SUFFIX,googleusercontent.com,礼品卡付款
+- DOMAIN-SUFFIX,gstatic.com,礼品卡付款
+- DOMAIN-SUFFIX,gvt1.com,礼品卡付款
+- DOMAIN-SUFFIX,g.co,礼品卡付款
+- DOMAIN-SUFFIX,ggpht.com,礼品卡付款
+- DOMAIN-SUFFIX,android.com,礼品卡付款
+- DOMAIN-SUFFIX,play.google.com,礼品卡付款
+- DOMAIN,mtalk.google.com,礼品卡付款
+- DOMAIN-SUFFIX,firebaseio.com,礼品卡付款
+- DOMAIN-KEYWORD,playbilling,礼品卡付款
+- DOMAIN-KEYWORD,googlepay,礼品卡付款
+- DOMAIN-KEYWORD,inappbilling,礼品卡付款
+- DOMAIN-KEYWORD,googleapis.cn,礼品卡付款
+- DOMAIN-KEYWORD,google,礼品卡付款
+- DOMAIN-KEYWORD,play,礼品卡付款
+- DOMAIN-KEYWORD,android,礼品卡付款
+- DOMAIN-KEYWORD,gmail,礼品卡付款
+- DOMAIN,ping0.cc,礼品卡付款
+- DOMAIN,sspanel.net,礼品卡付款
+- DOMAIN-KEYWORD,orders-dra.iap.cloud.huawei,礼品卡付款
+- DOMAIN-SUFFIX,acs.cupdapp.cn,礼品卡付款
+- DOMAIN-KEYWORD,iap-pay-dra.cloud.huawei,礼品卡付款
+- DOMAIN,ipip.la,礼品卡付款
+- MATCH,礼品卡付款
