@@ -18,7 +18,7 @@ dns:
 proxy-providers:
   机场:
     type: http
-    url: "https://3klay.no-mad-sub.one/link/esGDu4mwqPErrq1X?clash=3&extend=1"
+    url: "https://ceip5.no-mad-sub.one/link/esGDu4mwqPErrq1X?clash=3&extend=1"
     interval: 86400
     path: ./proxy_provider/jc.yaml
     udp: true
