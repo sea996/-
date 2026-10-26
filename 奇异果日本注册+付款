@@ -18,7 +18,7 @@ dns:
 proxy-providers:
   机场:
     type: http
-    url: "https://3klay.no-mad-sub.one/link/esGDu4mwqPErrq1X?clash=3&extend=1"
+    url: "https://qof99.no-mad-sub.one/link/Y0ABPXMWeUfV5YeQ?clash=3&extend=1"
     interval: 86400
     path: ./proxy_provider/jc.yaml
     udp: true
@@ -36,148 +36,164 @@ proxies:
     password: "f6KPToJudn"
     dialer-proxy: "机场中转"
     udp: true
-  - name: "韩国付款"
-    type: socks5
-    server: proxy.soax.com
-    port: 1337
-    username: "country-kr-network-res_mob"
-    password: "f6KPToJudn"
-    dialer-proxy: "机场中转"
-    udp: true
   - name: "日本注册_1"
     type: socks5
-    server: 122.8.154.191
-    port: 10055
-    username: "1112"
-    password: "1736"
+    server: 43.129.241.156
+    port: 10508
+    username: "111"
+    password: "222"
     dialer-proxy: "机场中转"
     udp: true
   - name: "日本注册_2"
     type: socks5
-    server: 110.238.115.133
-    port: 10056
-    username: "1112"
-    password: "1736"
+    server: 43.128.25.52
+    port: 10329
+    username: "111"
+    password: "222"
     dialer-proxy: "机场中转"
     udp: true
   - name: "日本注册_3"
     type: socks5
-    server: 43.225.143.109
-    port: 10061
-    username: "1112"
-    password: "1736"
+    server: 43.129.243.93
+    port: 10469
+    username: "111"
+    password: "222"
     dialer-proxy: "机场中转"
     udp: true
   - name: "日本注册_4"
     type: socks5
-    server: 110.238.119.149
-    port: 10060
-    username: "1112"
-    password: "1736"
+    server: 43.129.229.72
+    port: 10468
+    username: "111"
+    password: "222"
     dialer-proxy: "机场中转"
     udp: true
   - name: "日本注册_5"
     type: socks5
-    server: 49.0.198.244
-    port: 10058
+    server: 43.132.210.210
+    port: 10465
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_6"
+    type: socks5
+    server: 124.156.184.202
+    port: 10451
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_7"
+    type: socks5
+    server: 43.129.26.120
+    port: 10509
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_8"
+    type: socks5
+    server: 43.129.172.76
+    port: 10485
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_9"
+    type: socks5
+    server: 43.132.224.165
+    port: 10479
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_10"
+    type: socks5
+    server: 43.129.241.156
+    port: 10507
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_11"
+    type: socks5
+    server: 43.128.25.52
+    port: 10328
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_12"
+    type: socks5
+    server: 43.129.243.93
+    port: 10468
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_13"
+    type: socks5
+    server: 43.129.229.72
+    port: 10467
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_14"
+    type: socks5
+    server: 43.132.210.210
+    port: 10464
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_15"
+    type: socks5
+    server: 124.156.184.202
+    port: 10450
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_16"
+    type: socks5
+    server: 43.129.26.120
+    port: 10508
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_17"
+    type: socks5
+    server: 43.129.172.76
+    port: 10484
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_18"
+    type: socks5
+    server: 43.132.224.165
+    port: 10478
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_19"
+    type: socks5
+    server: 43.129.241.156
+    port: 10506
+    username: "111"
+    password: "222"
+    dialer-proxy: "机场中转"
+    udp: true
+  - name: "日本注册_20"
+    type: socks5
+    server: 43.129.229.72
+    port: 10466
     username: "1112"
     password: "1736"
-    dialer-proxy: "机场中转"
-    udp: true
-  - name: "韩国注册_1"
-    type: socks5
-    server: 59.2.121.170
-    port: 10066
-    username: "123"
-    password: "123"
-    dialer-proxy: "机场中转"
-    udp: true
-  - name: "韩国注册_2"
-    type: socks5
-    server: 220.82.203.163
-    port: 10072
-    username: "123"
-    password: "123"
-    dialer-proxy: "机场中转"
-    udp: true
-  - name: "韩国注册_3"
-    type: socks5
-    server: 211.230.188.142
-    port: 10066
-    username: "123"
-    password: "123"
-    dialer-proxy: "机场中转"
-    udp: true
-  - name: "韩国注册_4"
-    type: socks5
-    server: 175.208.120.142
-    port: 10056
-    username: "123"
-    password: "123"
-    dialer-proxy: "机场中转"
-    udp: true
-  - name: "韩国注册_5"
-    type: socks5
-    server: 61.85.196.234
-    port: 10054
-    username: "123"
-    password: "123"
-    dialer-proxy: "机场中转"
-    udp: true
-  - name: "韩国注册_6"
-    type: socks5
-    server: 220.124.128.121
-    port: 10065
-    username: "123"
-    password: "123"
-    dialer-proxy: "机场中转"
-    udp: true
-  - name: "韩国注册_7"
-    type: socks5
-    server: 211.55.247.85
-    port: 10061
-    username: "123"
-    password: "123"
-    dialer-proxy: "机场中转"
-    udp: true
-  - name: "韩国注册_8"
-    type: socks5
-    server: 183.109.134.200
-    port: 10045
-    username: "123"
-    password: "123"
-    dialer-proxy: "机场中转"
-    udp: true
-  - name: "韩国注册_9"
-    type: socks5
-    server: 125.139.169.1
-    port: 10058
-    username: "123"
-    password: "123"
-    dialer-proxy: "机场中转"
-    udp: true
-  - name: "韩国注册_10"
-    type: socks5
-    server: 125.139.151.205
-    port: 10069
-    username: "123"
-    password: "123"
-    dialer-proxy: "机场中转"
-    udp: true
-  - name: "韩国注册_11"
-    type: socks5
-    server: 121.154.247.242
-    port: 10055
-    username: "123"
-    password: "123"
-    dialer-proxy: "机场中转"
-    udp: true
-  - name: "韩国注册_12"
-    type: socks5
-    server: 125.139.151.109
-    port: 10061
-    username: "123"
-    password: "123"
     dialer-proxy: "机场中转"
     udp: true
 
@@ -190,24 +206,26 @@ proxy-groups:
     type: select
     proxies:
       - "日本付款"
-      - "韩国付款"
       - "日本注册_1"
       - "日本注册_2"
       - "日本注册_3"
       - "日本注册_4"
       - "日本注册_5"
-      - "韩国注册_1"
-      - "韩国注册_2"
-      - "韩国注册_3"
-      - "韩国注册_4"
-      - "韩国注册_5"
-      - "韩国注册_6"
-      - "韩国注册_7"
-      - "韩国注册_8"
-      - "韩国注册_9"
-      - "韩国注册_10"
-      - "韩国注册_11"
-      - "韩国注册_12"
+      - "日本注册_6"
+      - "日本注册_7"
+      - "日本注册_8"
+      - "日本注册_9"
+      - "日本注册_10"
+      - "日本注册_11"
+      - "日本注册_12"
+      - "日本注册_13"
+      - "日本注册_14"
+      - "日本注册_15"
+      - "日本注册_16"
+      - "日本注册_17"
+      - "日本注册_18"
+      - "日本注册_19"
+      - "日本注册_20"
       - "机场中转"
       - DIRECT
 
