@@ -18,7 +18,7 @@ dns:
 proxy-providers:
   机场:
     type: http
-    url: "https://cdn.zenithgrid.co/?L2Rvd25sb2FkQ29uZmlnL0NsYXNoLmFzcHg/ZXE9d2luZG93cyZ1cms9YWM2YzFlNzUtY2MzZS00ODQzLTllYTEtOWJmNDdiMGVjOWQ2Jm1tPTI0OTA2NCZrdG1tPXU2OFJnWkRGWjd3SUFzY3lXVFp0anclM2QlM2QmNDVjODg="
+    url: "https://cdn.zenithgrid.co/?L2Rvd25sb2FkQ29uZmlnL0NsYXNoLmFzcHg/ZXE9YW5kcm9pZCZ1cms9YWM2YzFlNzUtY2MzZS00ODQzLTllYTEtOWJmNDdiMGVjOWQ2Jm1tPTI0OTA2NCZrdG1tPXU2OFJnWkRGWjd4RjRzQzhTblMwTnclM2QlM2QmMmQ0NjkwN2EzNjA2NDZhMDgxNDhkOWQ4MWFmNmZl"
     interval: 86400
     path: ./proxy_provider/jc.yaml
     udp: true
