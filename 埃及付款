@@ -18,7 +18,7 @@ dns:
 proxy-providers:
   机场:
     type: http
-    url: "https://l6kbq.no-mad-sub.one/link/Z7v9bsLFqKWZDL81?clash=3&extend=1"
+    url: "https://cdn.zenithgrid.co/?L2Rvd25sb2FkQ29uZmlnL0NsYXNoLmFzcHg/ZXE9d2luZG93cyZ1cms9YWM2YzFlNzUtY2MzZS00ODQzLTllYTEtOWJmNDdiMGVjOWQ2Jm1tPTI0OTA2NCZrdG1tPXU2OFJnWkRGWjd3SUFzY3lXVFp0anclM2QlM2QmNDVjODg="
     interval: 86400
     path: ./proxy_provider/jc.yaml
     udp: true
